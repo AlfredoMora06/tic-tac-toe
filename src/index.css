@@ -31,9 +31,19 @@ body {
     text-align: center;
     width: 34px;
   }
+
+  .square.highlight {
+    background: #ddd
+  }
   
   .square:focus {
     outline: none;
+    color: red;
+  }
+
+  .move-list-item-selected{
+    float: left;
+    font-weight: bold;
   }
   
   .kbd-navigation .square:focus {
