@@ -1,7 +1,7 @@
 # Tic-tac-toe
 A tic-tac-toe game using React.js
 
-## Website link: https://cunyhub.shinyapps.io/CUNY_HUB_Project/
+## Website link: https://tic-tac-toe-98.herokuapp.com/
 
 * Lets you play tic-tac-toe,
 * Indicates when a player has won the game,
