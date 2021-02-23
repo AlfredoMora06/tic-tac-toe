@@ -9,13 +9,12 @@ A tic-tac-toe game using React.js
 * 
 * 
 * When someone wins, highlight the three squares that caused the win.
-* 
+* When no one wins, display a message about the result being a draw.
 
 ### Working on:  
 * Rewriting Board to use two loops to make the squares instead of hardcoding them.
 * Adding a toggle button that lets you sort the moves in either ascending or descending order.
 
-* When no one wins, display a message about the result being a draw.
 
 ## How to Run
 #### 1. npm i ####
