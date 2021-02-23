@@ -1,4 +1,4 @@
-# tic-tac-toe
+# Tic-tac-toe
 A tic-tac-toe game using React.js
 * Lets you play tic-tac-toe,
 * Indicates when a player has won the game,
@@ -6,13 +6,12 @@ A tic-tac-toe game using React.js
 * Allows players to review a game’s history and see previous versions of a game’s board.
 * Displays the location for each move in the format (col, row) in the move history list.
 * Bolding the currently selected item in the move list.
-* 
+* Rewriting Board to use two loops to make the squares instead of hardcoding them.
 * 
 * When someone wins, highlight the three squares that caused the win.
 * When no one wins, display a message about the result being a draw.
 
 ### Working on:  
-* Rewriting Board to use two loops to make the squares instead of hardcoding them.
 * Adding a toggle button that lets you sort the moves in either ascending or descending order.
 
 

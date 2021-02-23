@@ -121,7 +121,6 @@ class Game extends React.Component {
 
 
         let status;
-        let count = 1;
         if (winner) {
             status = 'Winner: ' + winner;
         }
